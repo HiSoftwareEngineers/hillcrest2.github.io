@@ -853,3 +853,10 @@ header h1 {
     transform: translateX(0);
   }
 }
+.team-img{
+  border-radius: 50%;  
+  display: block;
+  
+  height: 200px;
+  width: 200px;
+}
